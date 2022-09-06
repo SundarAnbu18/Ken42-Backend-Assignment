@@ -1,6 +1,5 @@
 
 const express = require('express');
-const _ = require('lodash');
 
 var router = express.Router();
 var ObjectId = require('mongoose').Types.ObjectId;
